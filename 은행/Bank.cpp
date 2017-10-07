@@ -6,8 +6,6 @@ using namespace std;
 
 void bank(acc Acc_arr[ACCLIMITNUM], int &ref_Acc_arr_num)
 {
-
-	cout << " commit check" << endl;
 	bool Do_bank = true;
 	while (Do_bank) {
 		cout << "은행 프로그램을 실행 하시겠습니까?" << endl;
